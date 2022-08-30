@@ -25,7 +25,7 @@ class MainActivity : AppCompatActivity() {
             btnEnglish.setOnClickListener { reloadActivity("en") }
             btnThailand.setOnClickListener { reloadActivity("th") }
             btnLaunch.setOnClickListener {
-                startActivity(Intent(this@MainActivity,I
+                startActivity(Intent(this@MainActivity,
                     SecondActivity::class.java))
             }
         }
