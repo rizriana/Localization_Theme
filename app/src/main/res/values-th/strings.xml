@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Localization</string>
+    <string name="lang">Thailand</string>
+    <string name="name">ฉันชื่อไรอัน</string>
+    <string name="age">ฉันอายุ26ปี</string>
+    <string name="address">อาศัยอยู่ในบันดุง</string>
+    <string name="good">ภาษาอังกฤษได้ดี</string>
+    <string name="learn">ฉันอยากเรียนภาษาอังกฤษ</string>
+</resources>

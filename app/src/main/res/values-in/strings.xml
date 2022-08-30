@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Localization</string>
+    <string name="lang">Bahasa</string>
+    <string name="name">Nama saya ryan</string>
+    <string name="age">Saya 26 tahun</string>
+    <string name="address">Tinggal di Bandung</string>
+    <string name="good">Indonesia itu bagus</string>
+    <string name="learn">Saya ingin belajar bahasa Indonesia</string>
+</resources>

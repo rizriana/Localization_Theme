@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Localization</string>
+    <string name="lang">English</string>
+    <string name="name">My name is ryan</string>
+    <string name="age">Im 26 years old</string>
+    <string name="address">Live in Bandung</string>
+    <string name="good">English is good</string>
+    <string name="learn">I want to learn English</string>
+</resources>
